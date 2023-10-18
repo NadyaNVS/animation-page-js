@@ -4,10 +4,11 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Lobster", sans-serif;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .sky {
+  overflow-x: hidden;
   position: relative;
   display: flex;
   justify-content: center;
